@@ -1,0 +1,18 @@
+SITE FERNANDO LIMA SOUZA
+
+Extraia o ZIP e envie TODO o conteúdo desta pasta para a raiz pública da sua hospedagem. Abra index.html para visualizar. Preserve a pasta assets.
+
+Arquivos: index.html, sobre.html, privacidade.html, termos-de-uso.html, styles.css e assets/ (Bootstrap e imagem local).
+Não há instalação, servidor de aplicação ou banco de dados. Funciona em hospedagem estática. Publicar com HTTPS.
+
+Os links de WhatsApp, telefone e e-mail utilizam os dados informados. Orçamentos e pagamentos são tratados diretamente; o site não envia formulários nem processa pagamentos.
+
+A imagem é ilustrativa, gerada por IA, e não representa portfólio executado. Substitua por fotos próprias se desejar.
+
+ANTES DE USAR EM ANÚNCIOS
+Confirme CNPJ, serviços, endereço e canais de atendimento. A fabricação de móveis planejados foi incluída conforme informação do responsável; confirme que o cadastro da empresa contempla as atividades exercidas.
+Revise a política conforme as práticas reais de atendimento e da hospedagem. A versão entregue não inclui cookies, pixels, Analytics ou tags do Google Ads. Se adicionar medição, ajuste a política e a gestão de consentimento aplicável.
+Política e termos são textos iniciais adaptados à versão do site; não certificam conformidade jurídica. A presença destas páginas não garante aprovação de anúncios pelo Google.
+
+Bootstrap 5.3.8, licença MIT, copyright The Bootstrap Authors. CSS original preservado em assets/bootstrap.min.css.
+Referências de elaboração: https://getbootstrap.com/docs/5.3/ e https://www.gov.br/anpd/pt-br/assuntos/titular-de-dados-1/direito-dos-titulares
